@@ -8,6 +8,7 @@ Plotting: Visualize BMI changes over time.
 
 Installation:
 https://github.com/kartik925/BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE-.git
+
 cd BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE
 pip install -r requirements.txt
 
