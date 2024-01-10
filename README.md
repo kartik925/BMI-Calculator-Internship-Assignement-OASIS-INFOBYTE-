@@ -13,5 +13,5 @@ cd BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE
 pip install -r requirements.txt
 
 Run:
-python bmi_calculator.py
+BMI Calculator Advanced.py
 
