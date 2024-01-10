@@ -7,9 +7,10 @@ History Tracking: View a table of BMI records.
 Plotting: Visualize BMI changes over time.
 
 Installation:
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
+https://github.com/kartik925/BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE-.git
+cd BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE
 pip install -r requirements.txt
 
 Run:
 python bmi_calculator.py
+
