@@ -10,7 +10,7 @@ Installation:
 https://github.com/kartik925/BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE-.git
 
 cd BMI-Calculator-Internship-Assignement-OASIS-INFOBYTE
-pip install -r requirements.txt
+pip install -r Requirements.txt
 
 Run:
 BMI Calculator Advanced.py
